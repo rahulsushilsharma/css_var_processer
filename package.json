@@ -1,0 +1,17 @@
+{
+  "name": "css_var_processer",
+  "version": "1.0.0",
+  "description": "to add var in const css proprities",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css",
+    "var",
+    "convertor"
+  ],
+  "author": "Rahul Sharma",
+  "license": "ISC"
+}
